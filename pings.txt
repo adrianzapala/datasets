@@ -1,0 +1,547 @@
+Microsoft Windows [Version 10.0.18362.535]
+(c) 2019 Microsoft Corporation. Wszelkie prawa zastrzeżone.
+
+C:\Users\Administrator>FOR /L %i IN (1,1,254) DO ping -n 1 192.168.188.%i | FIND /i "bytes=32"
+
+C:\Users\Administrator>ping -n 1 192.168.188.1   | FIND /i "bytes=32"
+Reply from 192.168.188.1: bytes=32 time<1ms TTL=64
+
+C:\Users\Administrator>ping -n 1 192.168.188.2   | FIND /i "bytes=32"
+
+C:\Users\Administrator>ping -n 1 192.168.188.3   | FIND /i "bytes=32"
+
+C:\Users\Administrator>ping -n 1 192.168.188.4   | FIND /i "bytes=32"
+
+C:\Users\Administrator>ping -n 1 192.168.188.5   | FIND /i "bytes=32"
+
+C:\Users\Administrator>ping -n 1 192.168.188.6   | FIND /i "bytes=32"
+
+C:\Users\Administrator>ping -n 1 192.168.188.7   | FIND /i "bytes=32"
+
+C:\Users\Administrator>ping -n 1 192.168.188.8   | FIND /i "bytes=32"
+
+C:\Users\Administrator>ping -n 1 192.168.188.9   | FIND /i "bytes=32"
+
+C:\Users\Administrator>ping -n 1 192.168.188.10   | FIND /i "bytes=32"
+
+C:\Users\Administrator>ping -n 1 192.168.188.11   | FIND /i "bytes=32"
+
+C:\Users\Administrator>ping -n 1 192.168.188.12   | FIND /i "bytes=32"
+
+C:\Users\Administrator>ping -n 1 192.168.188.13   | FIND /i "bytes=32"
+
+C:\Users\Administrator>ping -n 1 192.168.188.14   | FIND /i "bytes=32"
+
+C:\Users\Administrator>ping -n 1 192.168.188.15   | FIND /i "bytes=32"
+
+C:\Users\Administrator>ping -n 1 192.168.188.16   | FIND /i "bytes=32"
+
+C:\Users\Administrator>ping -n 1 192.168.188.17   | FIND /i "bytes=32"
+
+C:\Users\Administrator>ping -n 1 192.168.188.18   | FIND /i "bytes=32"
+
+C:\Users\Administrator>ping -n 1 192.168.188.19   | FIND /i "bytes=32"
+
+C:\Users\Administrator>ping -n 1 192.168.188.20   | FIND /i "bytes=32"
+
+C:\Users\Administrator>ping -n 1 192.168.188.21   | FIND /i "bytes=32"
+
+C:\Users\Administrator>ping -n 1 192.168.188.22   | FIND /i "bytes=32"
+
+C:\Users\Administrator>ping -n 1 192.168.188.23   | FIND /i "bytes=32"
+
+C:\Users\Administrator>ping -n 1 192.168.188.24   | FIND /i "bytes=32"
+
+C:\Users\Administrator>ping -n 1 192.168.188.25   | FIND /i "bytes=32"
+
+C:\Users\Administrator>ping -n 1 192.168.188.26   | FIND /i "bytes=32"
+
+C:\Users\Administrator>ping -n 1 192.168.188.27   | FIND /i "bytes=32"
+
+C:\Users\Administrator>ping -n 1 192.168.188.28   | FIND /i "bytes=32"
+
+C:\Users\Administrator>ping -n 1 192.168.188.29   | FIND /i "bytes=32"
+
+C:\Users\Administrator>ping -n 1 192.168.188.30   | FIND /i "bytes=32"
+
+C:\Users\Administrator>ping -n 1 192.168.188.31   | FIND /i "bytes=32"
+
+C:\Users\Administrator>ping -n 1 192.168.188.32   | FIND /i "bytes=32"
+
+C:\Users\Administrator>ping -n 1 192.168.188.33   | FIND /i "bytes=32"
+
+C:\Users\Administrator>ping -n 1 192.168.188.34   | FIND /i "bytes=32"
+Reply from 192.168.188.34: bytes=32 time<1ms TTL=128
+
+C:\Users\Administrator>ping -n 1 192.168.188.35   | FIND /i "bytes=32"
+
+C:\Users\Administrator>ping -n 1 192.168.188.36   | FIND /i "bytes=32"
+Reply from 192.168.188.36: bytes=32 time<1ms TTL=64
+
+C:\Users\Administrator>ping -n 1 192.168.188.37   | FIND /i "bytes=32"
+
+C:\Users\Administrator>ping -n 1 192.168.188.38   | FIND /i "bytes=32"
+
+C:\Users\Administrator>ping -n 1 192.168.188.39   | FIND /i "bytes=32"
+
+C:\Users\Administrator>ping -n 1 192.168.188.40   | FIND /i "bytes=32"
+
+C:\Users\Administrator>ping -n 1 192.168.188.41   | FIND /i "bytes=32"
+
+C:\Users\Administrator>ping -n 1 192.168.188.42   | FIND /i "bytes=32"
+
+C:\Users\Administrator>ping -n 1 192.168.188.43   | FIND /i "bytes=32"
+
+C:\Users\Administrator>ping -n 1 192.168.188.44   | FIND /i "bytes=32"
+
+C:\Users\Administrator>ping -n 1 192.168.188.45   | FIND /i "bytes=32"
+
+C:\Users\Administrator>ping -n 1 192.168.188.46   | FIND /i "bytes=32"
+
+C:\Users\Administrator>ping -n 1 192.168.188.47   | FIND /i "bytes=32"
+
+C:\Users\Administrator>ping -n 1 192.168.188.48   | FIND /i "bytes=32"
+
+C:\Users\Administrator>ping -n 1 192.168.188.49   | FIND /i "bytes=32"
+
+C:\Users\Administrator>ping -n 1 192.168.188.50   | FIND /i "bytes=32"
+
+C:\Users\Administrator>ping -n 1 192.168.188.51   | FIND /i "bytes=32"
+
+C:\Users\Administrator>ping -n 1 192.168.188.52   | FIND /i "bytes=32"
+
+C:\Users\Administrator>ping -n 1 192.168.188.53   | FIND /i "bytes=32"
+
+C:\Users\Administrator>ping -n 1 192.168.188.54   | FIND /i "bytes=32"
+
+C:\Users\Administrator>ping -n 1 192.168.188.55   | FIND /i "bytes=32"
+
+C:\Users\Administrator>ping -n 1 192.168.188.56   | FIND /i "bytes=32"
+
+C:\Users\Administrator>ping -n 1 192.168.188.57   | FIND /i "bytes=32"
+
+C:\Users\Administrator>ping -n 1 192.168.188.58   | FIND /i "bytes=32"
+
+C:\Users\Administrator>ping -n 1 192.168.188.59   | FIND /i "bytes=32"
+
+C:\Users\Administrator>ping -n 1 192.168.188.60   | FIND /i "bytes=32"
+
+C:\Users\Administrator>ping -n 1 192.168.188.61   | FIND /i "bytes=32"
+
+C:\Users\Administrator>ping -n 1 192.168.188.62   | FIND /i "bytes=32"
+
+C:\Users\Administrator>ping -n 1 192.168.188.63   | FIND /i "bytes=32"
+
+C:\Users\Administrator>ping -n 1 192.168.188.64   | FIND /i "bytes=32"
+
+C:\Users\Administrator>ping -n 1 192.168.188.65   | FIND /i "bytes=32"
+
+C:\Users\Administrator>ping -n 1 192.168.188.66   | FIND /i "bytes=32"
+
+C:\Users\Administrator>ping -n 1 192.168.188.67   | FIND /i "bytes=32"
+
+C:\Users\Administrator>ping -n 1 192.168.188.68   | FIND /i "bytes=32"
+
+C:\Users\Administrator>ping -n 1 192.168.188.69   | FIND /i "bytes=32"
+
+C:\Users\Administrator>ping -n 1 192.168.188.70   | FIND /i "bytes=32"
+
+C:\Users\Administrator>ping -n 1 192.168.188.71   | FIND /i "bytes=32"
+
+C:\Users\Administrator>ping -n 1 192.168.188.72   | FIND /i "bytes=32"
+
+C:\Users\Administrator>ping -n 1 192.168.188.73   | FIND /i "bytes=32"
+
+C:\Users\Administrator>ping -n 1 192.168.188.74   | FIND /i "bytes=32"
+
+C:\Users\Administrator>ping -n 1 192.168.188.75   | FIND /i "bytes=32"
+
+C:\Users\Administrator>ping -n 1 192.168.188.76   | FIND /i "bytes=32"
+
+C:\Users\Administrator>ping -n 1 192.168.188.77   | FIND /i "bytes=32"
+
+C:\Users\Administrator>ping -n 1 192.168.188.78   | FIND /i "bytes=32"
+
+C:\Users\Administrator>ping -n 1 192.168.188.79   | FIND /i "bytes=32"
+
+C:\Users\Administrator>ping -n 1 192.168.188.80   | FIND /i "bytes=32"
+
+C:\Users\Administrator>ping -n 1 192.168.188.81   | FIND /i "bytes=32"
+
+C:\Users\Administrator>ping -n 1 192.168.188.82   | FIND /i "bytes=32"
+
+C:\Users\Administrator>ping -n 1 192.168.188.83   | FIND /i "bytes=32"
+
+C:\Users\Administrator>ping -n 1 192.168.188.84   | FIND /i "bytes=32"
+
+C:\Users\Administrator>ping -n 1 192.168.188.85   | FIND /i "bytes=32"
+
+C:\Users\Administrator>ping -n 1 192.168.188.86   | FIND /i "bytes=32"
+
+C:\Users\Administrator>ping -n 1 192.168.188.87   | FIND /i "bytes=32"
+
+C:\Users\Administrator>ping -n 1 192.168.188.88   | FIND /i "bytes=32"
+
+C:\Users\Administrator>ping -n 1 192.168.188.89   | FIND /i "bytes=32"
+
+C:\Users\Administrator>ping -n 1 192.168.188.90   | FIND /i "bytes=32"
+
+C:\Users\Administrator>ping -n 1 192.168.188.91   | FIND /i "bytes=32"
+
+C:\Users\Administrator>ping -n 1 192.168.188.92   | FIND /i "bytes=32"
+
+C:\Users\Administrator>ping -n 1 192.168.188.93   | FIND /i "bytes=32"
+
+C:\Users\Administrator>ping -n 1 192.168.188.94   | FIND /i "bytes=32"
+
+C:\Users\Administrator>ping -n 1 192.168.188.95   | FIND /i "bytes=32"
+
+C:\Users\Administrator>ping -n 1 192.168.188.96   | FIND /i "bytes=32"
+
+C:\Users\Administrator>ping -n 1 192.168.188.97   | FIND /i "bytes=32"
+
+C:\Users\Administrator>ping -n 1 192.168.188.98   | FIND /i "bytes=32"
+
+C:\Users\Administrator>ping -n 1 192.168.188.99   | FIND /i "bytes=32"
+
+C:\Users\Administrator>ping -n 1 192.168.188.100   | FIND /i "bytes=32"
+
+C:\Users\Administrator>ping -n 1 192.168.188.101   | FIND /i "bytes=32"
+
+C:\Users\Administrator>ping -n 1 192.168.188.102   | FIND /i "bytes=32"
+
+C:\Users\Administrator>ping -n 1 192.168.188.103   | FIND /i "bytes=32"
+
+C:\Users\Administrator>ping -n 1 192.168.188.104   | FIND /i "bytes=32"
+
+C:\Users\Administrator>ping -n 1 192.168.188.105   | FIND /i "bytes=32"
+
+C:\Users\Administrator>ping -n 1 192.168.188.106   | FIND /i "bytes=32"
+
+C:\Users\Administrator>ping -n 1 192.168.188.107   | FIND /i "bytes=32"
+
+C:\Users\Administrator>ping -n 1 192.168.188.108   | FIND /i "bytes=32"
+
+C:\Users\Administrator>ping -n 1 192.168.188.109   | FIND /i "bytes=32"
+
+C:\Users\Administrator>ping -n 1 192.168.188.110   | FIND /i "bytes=32"
+
+C:\Users\Administrator>ping -n 1 192.168.188.111   | FIND /i "bytes=32"
+
+C:\Users\Administrator>ping -n 1 192.168.188.112   | FIND /i "bytes=32"
+
+C:\Users\Administrator>ping -n 1 192.168.188.113   | FIND /i "bytes=32"
+
+C:\Users\Administrator>ping -n 1 192.168.188.114   | FIND /i "bytes=32"
+
+C:\Users\Administrator>ping -n 1 192.168.188.115   | FIND /i "bytes=32"
+
+C:\Users\Administrator>ping -n 1 192.168.188.116   | FIND /i "bytes=32"
+
+C:\Users\Administrator>ping -n 1 192.168.188.117   | FIND /i "bytes=32"
+
+C:\Users\Administrator>ping -n 1 192.168.188.118   | FIND /i "bytes=32"
+
+C:\Users\Administrator>ping -n 1 192.168.188.119   | FIND /i "bytes=32"
+
+C:\Users\Administrator>ping -n 1 192.168.188.120   | FIND /i "bytes=32"
+
+C:\Users\Administrator>ping -n 1 192.168.188.121   | FIND /i "bytes=32"
+
+C:\Users\Administrator>ping -n 1 192.168.188.122   | FIND /i "bytes=32"
+
+C:\Users\Administrator>ping -n 1 192.168.188.123   | FIND /i "bytes=32"
+
+C:\Users\Administrator>ping -n 1 192.168.188.124   | FIND /i "bytes=32"
+
+C:\Users\Administrator>ping -n 1 192.168.188.125   | FIND /i "bytes=32"
+
+C:\Users\Administrator>ping -n 1 192.168.188.126   | FIND /i "bytes=32"
+
+C:\Users\Administrator>ping -n 1 192.168.188.127   | FIND /i "bytes=32"
+
+C:\Users\Administrator>ping -n 1 192.168.188.128   | FIND /i "bytes=32"
+
+C:\Users\Administrator>ping -n 1 192.168.188.129   | FIND /i "bytes=32"
+
+C:\Users\Administrator>ping -n 1 192.168.188.130   | FIND /i "bytes=32"
+
+C:\Users\Administrator>ping -n 1 192.168.188.131   | FIND /i "bytes=32"
+
+C:\Users\Administrator>ping -n 1 192.168.188.132   | FIND /i "bytes=32"
+
+C:\Users\Administrator>ping -n 1 192.168.188.133   | FIND /i "bytes=32"
+
+C:\Users\Administrator>ping -n 1 192.168.188.134   | FIND /i "bytes=32"
+
+C:\Users\Administrator>ping -n 1 192.168.188.135   | FIND /i "bytes=32"
+
+C:\Users\Administrator>ping -n 1 192.168.188.136   | FIND /i "bytes=32"
+
+C:\Users\Administrator>ping -n 1 192.168.188.137   | FIND /i "bytes=32"
+
+C:\Users\Administrator>ping -n 1 192.168.188.138   | FIND /i "bytes=32"
+
+C:\Users\Administrator>ping -n 1 192.168.188.139   | FIND /i "bytes=32"
+
+C:\Users\Administrator>ping -n 1 192.168.188.140   | FIND /i "bytes=32"
+
+C:\Users\Administrator>ping -n 1 192.168.188.141   | FIND /i "bytes=32"
+
+C:\Users\Administrator>ping -n 1 192.168.188.142   | FIND /i "bytes=32"
+
+C:\Users\Administrator>ping -n 1 192.168.188.143   | FIND /i "bytes=32"
+
+C:\Users\Administrator>ping -n 1 192.168.188.144   | FIND /i "bytes=32"
+
+C:\Users\Administrator>ping -n 1 192.168.188.145   | FIND /i "bytes=32"
+
+C:\Users\Administrator>ping -n 1 192.168.188.146   | FIND /i "bytes=32"
+
+C:\Users\Administrator>ping -n 1 192.168.188.147   | FIND /i "bytes=32"
+
+C:\Users\Administrator>ping -n 1 192.168.188.148   | FIND /i "bytes=32"
+
+C:\Users\Administrator>ping -n 1 192.168.188.149   | FIND /i "bytes=32"
+
+C:\Users\Administrator>ping -n 1 192.168.188.150   | FIND /i "bytes=32"
+
+C:\Users\Administrator>ping -n 1 192.168.188.151   | FIND /i "bytes=32"
+
+C:\Users\Administrator>ping -n 1 192.168.188.152   | FIND /i "bytes=32"
+
+C:\Users\Administrator>ping -n 1 192.168.188.153   | FIND /i "bytes=32"
+
+C:\Users\Administrator>ping -n 1 192.168.188.154   | FIND /i "bytes=32"
+
+C:\Users\Administrator>ping -n 1 192.168.188.155   | FIND /i "bytes=32"
+
+C:\Users\Administrator>ping -n 1 192.168.188.156   | FIND /i "bytes=32"
+
+C:\Users\Administrator>ping -n 1 192.168.188.157   | FIND /i "bytes=32"
+
+C:\Users\Administrator>ping -n 1 192.168.188.158   | FIND /i "bytes=32"
+
+C:\Users\Administrator>ping -n 1 192.168.188.159   | FIND /i "bytes=32"
+
+C:\Users\Administrator>ping -n 1 192.168.188.160   | FIND /i "bytes=32"
+
+C:\Users\Administrator>ping -n 1 192.168.188.161   | FIND /i "bytes=32"
+
+C:\Users\Administrator>ping -n 1 192.168.188.162   | FIND /i "bytes=32"
+
+C:\Users\Administrator>ping -n 1 192.168.188.163   | FIND /i "bytes=32"
+
+C:\Users\Administrator>ping -n 1 192.168.188.164   | FIND /i "bytes=32"
+
+C:\Users\Administrator>ping -n 1 192.168.188.165   | FIND /i "bytes=32"
+
+C:\Users\Administrator>ping -n 1 192.168.188.166   | FIND /i "bytes=32"
+
+C:\Users\Administrator>ping -n 1 192.168.188.167   | FIND /i "bytes=32"
+
+C:\Users\Administrator>ping -n 1 192.168.188.168   | FIND /i "bytes=32"
+
+C:\Users\Administrator>ping -n 1 192.168.188.169   | FIND /i "bytes=32"
+
+C:\Users\Administrator>ping -n 1 192.168.188.170   | FIND /i "bytes=32"
+
+C:\Users\Administrator>ping -n 1 192.168.188.171   | FIND /i "bytes=32"
+
+C:\Users\Administrator>ping -n 1 192.168.188.172   | FIND /i "bytes=32"
+
+C:\Users\Administrator>ping -n 1 192.168.188.173   | FIND /i "bytes=32"
+
+C:\Users\Administrator>ping -n 1 192.168.188.174   | FIND /i "bytes=32"
+
+C:\Users\Administrator>ping -n 1 192.168.188.175   | FIND /i "bytes=32"
+
+C:\Users\Administrator>ping -n 1 192.168.188.176   | FIND /i "bytes=32"
+
+C:\Users\Administrator>ping -n 1 192.168.188.177   | FIND /i "bytes=32"
+
+C:\Users\Administrator>ping -n 1 192.168.188.178   | FIND /i "bytes=32"
+
+C:\Users\Administrator>ping -n 1 192.168.188.179   | FIND /i "bytes=32"
+
+C:\Users\Administrator>ping -n 1 192.168.188.180   | FIND /i "bytes=32"
+
+C:\Users\Administrator>ping -n 1 192.168.188.181   | FIND /i "bytes=32"
+
+C:\Users\Administrator>ping -n 1 192.168.188.182   | FIND /i "bytes=32"
+
+C:\Users\Administrator>ping -n 1 192.168.188.183   | FIND /i "bytes=32"
+
+C:\Users\Administrator>ping -n 1 192.168.188.184   | FIND /i "bytes=32"
+
+C:\Users\Administrator>ping -n 1 192.168.188.185   | FIND /i "bytes=32"
+
+C:\Users\Administrator>ping -n 1 192.168.188.186   | FIND /i "bytes=32"
+
+C:\Users\Administrator>ping -n 1 192.168.188.187   | FIND /i "bytes=32"
+
+C:\Users\Administrator>ping -n 1 192.168.188.188   | FIND /i "bytes=32"
+Reply from 192.168.188.188: bytes=32 time<1ms TTL=255
+
+C:\Users\Administrator>ping -n 1 192.168.188.189   | FIND /i "bytes=32"
+
+C:\Users\Administrator>ping -n 1 192.168.188.190   | FIND /i "bytes=32"
+
+C:\Users\Administrator>ping -n 1 192.168.188.191   | FIND /i "bytes=32"
+
+C:\Users\Administrator>ping -n 1 192.168.188.192   | FIND /i "bytes=32"
+
+C:\Users\Administrator>ping -n 1 192.168.188.193   | FIND /i "bytes=32"
+
+C:\Users\Administrator>ping -n 1 192.168.188.194   | FIND /i "bytes=32"
+
+C:\Users\Administrator>ping -n 1 192.168.188.195   | FIND /i "bytes=32"
+
+C:\Users\Administrator>ping -n 1 192.168.188.196   | FIND /i "bytes=32"
+
+C:\Users\Administrator>ping -n 1 192.168.188.197   | FIND /i "bytes=32"
+
+C:\Users\Administrator>ping -n 1 192.168.188.198   | FIND /i "bytes=32"
+
+C:\Users\Administrator>ping -n 1 192.168.188.199   | FIND /i "bytes=32"
+Reply from 192.168.188.199: bytes=32 time=1ms TTL=255
+
+C:\Users\Administrator>ping -n 1 192.168.188.200   | FIND /i "bytes=32"
+
+C:\Users\Administrator>ping -n 1 192.168.188.201   | FIND /i "bytes=32"
+Reply from 192.168.188.201: bytes=32 time<1ms TTL=64
+
+C:\Users\Administrator>ping -n 1 192.168.188.202   | FIND /i "bytes=32"
+Reply from 192.168.188.202: bytes=32 time<1ms TTL=64
+
+C:\Users\Administrator>ping -n 1 192.168.188.203   | FIND /i "bytes=32"
+Reply from 192.168.188.203: bytes=32 time<1ms TTL=64
+
+C:\Users\Administrator>ping -n 1 192.168.188.204   | FIND /i "bytes=32"
+Reply from 192.168.188.204: bytes=32 time<1ms TTL=64
+
+C:\Users\Administrator>ping -n 1 192.168.188.205   | FIND /i "bytes=32"
+Reply from 192.168.188.205: bytes=32 time<1ms TTL=64
+
+C:\Users\Administrator>ping -n 1 192.168.188.206   | FIND /i "bytes=32"
+
+C:\Users\Administrator>ping -n 1 192.168.188.207   | FIND /i "bytes=32"
+
+C:\Users\Administrator>ping -n 1 192.168.188.208   | FIND /i "bytes=32"
+
+C:\Users\Administrator>ping -n 1 192.168.188.209   | FIND /i "bytes=32"
+
+C:\Users\Administrator>ping -n 1 192.168.188.210   | FIND /i "bytes=32"
+
+C:\Users\Administrator>ping -n 1 192.168.188.211   | FIND /i "bytes=32"
+
+C:\Users\Administrator>ping -n 1 192.168.188.212   | FIND /i "bytes=32"
+Reply from 192.168.188.212: bytes=32 time<1ms TTL=128
+
+C:\Users\Administrator>ping -n 1 192.168.188.213   | FIND /i "bytes=32"
+
+C:\Users\Administrator>ping -n 1 192.168.188.214   | FIND /i "bytes=32"
+Reply from 192.168.188.214: bytes=32 time<1ms TTL=128
+
+C:\Users\Administrator>ping -n 1 192.168.188.215   | FIND /i "bytes=32"
+
+C:\Users\Administrator>ping -n 1 192.168.188.216   | FIND /i "bytes=32"
+Reply from 192.168.188.216: bytes=32 time<1ms TTL=128
+
+C:\Users\Administrator>ping -n 1 192.168.188.217   | FIND /i "bytes=32"
+
+C:\Users\Administrator>ping -n 1 192.168.188.218   | FIND /i "bytes=32"
+
+C:\Users\Administrator>ping -n 1 192.168.188.219   | FIND /i "bytes=32"
+Reply from 192.168.188.219: bytes=32 time<1ms TTL=128
+
+C:\Users\Administrator>ping -n 1 192.168.188.220   | FIND /i "bytes=32"
+
+C:\Users\Administrator>ping -n 1 192.168.188.221   | FIND /i "bytes=32"
+Reply from 192.168.188.221: bytes=32 time<1ms TTL=128
+
+C:\Users\Administrator>ping -n 1 192.168.188.222   | FIND /i "bytes=32"
+Reply from 192.168.188.222: bytes=32 time<1ms TTL=128
+
+C:\Users\Administrator>ping -n 1 192.168.188.223   | FIND /i "bytes=32"
+Reply from 192.168.188.223: bytes=32 time<1ms TTL=128
+
+C:\Users\Administrator>ping -n 1 192.168.188.224   | FIND /i "bytes=32"
+Reply from 192.168.188.224: bytes=32 time<1ms TTL=128
+
+C:\Users\Administrator>ping -n 1 192.168.188.225   | FIND /i "bytes=32"
+Reply from 192.168.188.225: bytes=32 time<1ms TTL=128
+
+C:\Users\Administrator>ping -n 1 192.168.188.226   | FIND /i "bytes=32"
+Reply from 192.168.188.226: bytes=32 time<1ms TTL=128
+
+C:\Users\Administrator>ping -n 1 192.168.188.227   | FIND /i "bytes=32"
+
+C:\Users\Administrator>ping -n 1 192.168.188.228   | FIND /i "bytes=32"
+Reply from 192.168.188.228: bytes=32 time<1ms TTL=128
+
+C:\Users\Administrator>ping -n 1 192.168.188.229   | FIND /i "bytes=32"
+Reply from 192.168.188.229: bytes=32 time<1ms TTL=128
+
+C:\Users\Administrator>ping -n 1 192.168.188.230   | FIND /i "bytes=32"
+
+C:\Users\Administrator>ping -n 1 192.168.188.231   | FIND /i "bytes=32"
+Reply from 192.168.188.231: bytes=32 time<1ms TTL=128
+
+C:\Users\Administrator>ping -n 1 192.168.188.232   | FIND /i "bytes=32"
+Reply from 192.168.188.232: bytes=32 time<1ms TTL=128
+
+C:\Users\Administrator>ping -n 1 192.168.188.233   | FIND /i "bytes=32"
+Reply from 192.168.188.233: bytes=32 time<1ms TTL=128
+
+C:\Users\Administrator>ping -n 1 192.168.188.234   | FIND /i "bytes=32"
+Reply from 192.168.188.234: bytes=32 time=1ms TTL=128
+
+C:\Users\Administrator>ping -n 1 192.168.188.235   | FIND /i "bytes=32"
+Reply from 192.168.188.235: bytes=32 time<1ms TTL=128
+
+C:\Users\Administrator>ping -n 1 192.168.188.236   | FIND /i "bytes=32"
+Reply from 192.168.188.236: bytes=32 time<1ms TTL=128
+
+C:\Users\Administrator>ping -n 1 192.168.188.237   | FIND /i "bytes=32"
+Reply from 192.168.188.237: bytes=32 time<1ms TTL=128
+
+C:\Users\Administrator>ping -n 1 192.168.188.238   | FIND /i "bytes=32"
+Reply from 192.168.188.238: bytes=32 time=1ms TTL=128
+
+C:\Users\Administrator>ping -n 1 192.168.188.239   | FIND /i "bytes=32"
+
+C:\Users\Administrator>ping -n 1 192.168.188.240   | FIND /i "bytes=32"
+
+C:\Users\Administrator>ping -n 1 192.168.188.241   | FIND /i "bytes=32"
+
+C:\Users\Administrator>ping -n 1 192.168.188.242   | FIND /i "bytes=32"
+
+C:\Users\Administrator>ping -n 1 192.168.188.243   | FIND /i "bytes=32"
+
+C:\Users\Administrator>ping -n 1 192.168.188.244   | FIND /i "bytes=32"
+Reply from 192.168.188.244: bytes=32 time<1ms TTL=128
+
+C:\Users\Administrator>ping -n 1 192.168.188.245   | FIND /i "bytes=32"
+
+C:\Users\Administrator>ping -n 1 192.168.188.246   | FIND /i "bytes=32"
+
+C:\Users\Administrator>ping -n 1 192.168.188.247   | FIND /i "bytes=32"
+
+C:\Users\Administrator>ping -n 1 192.168.188.248   | FIND /i "bytes=32"
+
+C:\Users\Administrator>ping -n 1 192.168.188.249   | FIND /i "bytes=32"
+Reply from 192.168.188.249: bytes=32 time<1ms TTL=128
+
+C:\Users\Administrator>ping -n 1 192.168.188.250   | FIND /i "bytes=32"
+Reply from 192.168.188.250: bytes=32 time<1ms TTL=128
+
+C:\Users\Administrator>ping -n 1 192.168.188.251   | FIND /i "bytes=32"
+
+C:\Users\Administrator>ping -n 1 192.168.188.252   | FIND /i "bytes=32"
+
+C:\Users\Administrator>ping -n 1 192.168.188.253   | FIND /i "bytes=32"
+
+C:\Users\Administrator>ping -n 1 192.168.188.254   | FIND /i "bytes=32"
+
+C:\Users\Administrator>
